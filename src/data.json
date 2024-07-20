@@ -1,0 +1,67 @@
+{
+    "countries": [
+      {
+        "name": "Brasil",
+        "states": [
+          {
+            "name": "São Paulo",
+            "cities": [
+              {
+                "name": "São Paulo",
+                "neighborhoods": ["Centro", "Moema", "Vila Madalena"]
+              },
+              {
+                "name": "Campinas",
+                "neighborhoods": ["Cambuí", "Taquaral", "Barão Geraldo"]
+              }
+            ]
+          },
+          {
+            "name": "Rio de Janeiro",
+            "cities": [
+              {
+                "name": "Rio de Janeiro",
+                "neighborhoods": ["Copacabana", "Ipanema", "Botafogo"]
+              },
+              {
+                "name": "Niterói",
+                "neighborhoods": ["Icaraí", "Santa Rosa", "São Francisco"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "United States",
+        "states": [
+          {
+            "name": "California",
+            "cities": [
+              {
+                "name": "Los Angeles",
+                "neighborhoods": ["Hollywood", "Beverly Hills", "Downtown"]
+              },
+              {
+                "name": "San Francisco",
+                "neighborhoods": ["Mission District", "SOMA", "Chinatown"]
+              }
+            ]
+          },
+          {
+            "name": "New York",
+            "cities": [
+              {
+                "name": "New York City",
+                "neighborhoods": ["Manhattan", "Brooklyn", "Queens"]
+              },
+              {
+                "name": "Buffalo",
+                "neighborhoods": ["Allentown", "Elmwood Village", "North Park"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
